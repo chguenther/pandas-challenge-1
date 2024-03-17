@@ -17,7 +17,7 @@ The analysis proceeds through the following steps:
 
    b. A function that returns the measures of central tendency, mean, median, and mode.
 
-   c. A function that finds lower and upper bounds of a data series based on the inter-quartile range. Lowere and upper bounds define values beyond which data points are considered outliers.
+   c. A function that finds lower and upper bounds of a data series based on the inter-quartile range. Lower and upper bounds define values beyond which data points are considered outliers.
 
    d. A function that finds the outliers of a data series.
 
@@ -63,11 +63,11 @@ The analysis proceeds through the following steps:
 
 8. Make sure the calculation of total revenue is correct.
 
-   This was done by comparing the calculated total revenue for three orders with their given email receipts. Except for a rounding error they match.
+   This was done by comparing the calculated total revenue for three orders with their given email receipts. Except for a rounding error, they match.
 
 9. Find the customer that ordered the most units in one order and determine their total revenue and total profit. Compare those numbers with the total revenue and total profit provided by the customers from the top five list of customers by number of orders placed.
 
-   The customer that ordered the most units in one order, 3,958,244, is Julie Anderson, client ID 78965. They provided a total revenue and profit of $655.92 million and $247.35 million, respectively.
+   The customer that ordered the most units in one order, 3,958,244, is Julie Anderson, client ID 78965. They provided a total revenue and profit of $655.92 million and $247.35 million, respectively. This exceed the total revenue and profit of Kendra Garrett that provided the most total revenue and profit out of the custoemrs with the most orders.
 
 10. Find the customer with the largest total revenue and total profit and compare it to the total revenue and total profit of the customer that ordered the most units.
 
